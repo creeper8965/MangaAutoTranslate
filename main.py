@@ -1,16 +1,10 @@
-#requirements unidic_lite torch onnxruntime PIL numpy opencv-python jaconv transformers re openai json |CMAKE_ARGS="-DGGML_CUDA=on" llama-cpp-python|
-#wget https://huggingface.co/alfredplpl/gemma-2-2b-jpn-it-gguf/resolve/main/gemma-2-2b-jpn-it-Q8_0.gguf?download=true -O gemma-2-2b-jpn-8bit.gguf
-#kha-white/manga-ocr-base
-
-from PIL import Image#, ImageDraw, ImageFont
+from PIL import Image
 import numpy as np
-# import cv2
 from yolov8 import YOLOv8
 import os
 
 import jaconv
 from transformers import AutoTokenizer, AutoImageProcessor, VisionEncoderDecoderModel
-# import torch
 import re
 import json
 from openai import OpenAI
