@@ -4,7 +4,7 @@ What is it?
 It is a Gradio server that translates a japanese manga page to english, and blend it in the pre existing speech bubbles.
 
 
-Soon will upload a API server.py and a firefox addon soon to to right click to translate in webpages.
+Soon i will upload a API server.py and a firefox addon soon to to right click to translate in webpages.
 
     
 To install:
