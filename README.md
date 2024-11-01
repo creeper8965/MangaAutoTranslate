@@ -20,3 +20,12 @@
         
             python Install.py
 
+
+    Credits
+
+
+        Llama.cpp https://github.com/ggerganov/llama.cpp
+        Onnx Yolov8 https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection
+        Japanese Gemma https://huggingface.co/alfredplpl/gemma-2-2b-jpn-it-gguf
+        Manga OCR https://huggingface.co/kha-white/manga-ocr-base
+        Speech Bubble Dataset https://universe.roboflow.com/sam64-t4u3d/manga-translator-detection-r1kli
