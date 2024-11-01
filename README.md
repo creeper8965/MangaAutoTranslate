@@ -13,7 +13,8 @@
             2. cd llama.cpp
             3. make ##Use your hardware supported make command https://github.com/ggerganov/llama.cpp/blob/master/docs/build.md
             4. mv llama-server ../
-            5. rm -r llama.cpp/
+            5. cd ../
+            6. rm -r llama.cpp/
 
         For ML models:
         
