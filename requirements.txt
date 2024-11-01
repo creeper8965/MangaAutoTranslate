@@ -1,0 +1,11 @@
+unidic_lite
+torch
+onnxruntime
+PIL
+numpy
+opencv-python
+jaconv
+transformers
+re
+openai
+json
